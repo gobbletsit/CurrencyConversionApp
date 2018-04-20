@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // label strings
+    <string name="enter_amount_hint">Enter the amount to convert here</string>
+    <string name="from_label">From :</string>
+    <string name="to_label">To :</string>
+    <string name="result_label">Total :</string>
+    <string name="submit_label">Convert</string>
+
+</resources>
